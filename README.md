@@ -2,6 +2,9 @@
 
 Next.js の SSG（Static Site Generation）によるブログアプリ。
 
+使用言語:  
+TypeScript
+
 ローカルでの実行
 
 ```
